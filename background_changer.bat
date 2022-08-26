@@ -14,11 +14,11 @@ REG ADD "HKLM\%Regs%\Folder\Hidden\SHOWALL" /v "CheckedValue" /t REG_DWORD /d 0 
 cls
 echo.
 echo _______________________________________________________________________________
-echo                        Window 7 Folder Background Changer
-echo                                     v1.0
+echo                          Window 7 Folder Background Changer
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo.
 echo. ::. Main Menu ::.
@@ -41,11 +41,11 @@ goto CONFIRM
 cls
 echo.
 echo _______________________________________________________________________________
-echo                        Window 7 Folder Background Changer
-echo                                     v1.0
+echo                          Window 7 Folder Background Changer
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 set /p "location=Enter Your Folder Location : "
 set /p "background=Enter Your Location Background Image : "
@@ -136,11 +136,11 @@ goto CHANGER
 cls
 echo.
 echo _______________________________________________________________________________
-echo                        Window 7 Folder Background Changer
-echo                                     v1.0
+echo                          Window 7 Folder Background Changer
+echo                                       v1.0
 echo.
-echo                              .:: Sinau Tech ::.
-echo                             https://sinautech.id
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo _______________________________________________________________________________
 echo.
 echo .:: Main Features ::.
